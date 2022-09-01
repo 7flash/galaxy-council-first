@@ -1,0 +1,72 @@
+{
+    "object": "task",
+    "id": "task-JNDTdEsVJct7dV5ka8vsCwTB",
+    "created": 1660565047,
+    "task_type": "text2im",
+    "status": "succeeded",
+    "status_information": {},
+    "prompt_id": "prompt-9qj3HLbGkwh5PHTSjsLkl1EF",
+    "generations": {
+        "object": "list",
+        "data": [
+            {
+                "id": "generation-HkxKgvBfZGkMgLNotzOiXBrC",
+                "object": "generation",
+                "created": 1660565061,
+                "generation_type": "ImageGeneration",
+                "generation": {
+                    "image_path": "https://openailabsprodscus.blob.core.windows.net/private/user-gDrng8oTjNlF9yhhAn6CrNkK/generations/generation-HkxKgvBfZGkMgLNotzOiXBrC/image.webp?st=2022-08-15T11%3A05%3A22Z&se=2022-08-15T13%3A03%3A22Z&sp=rt&sv=2020-10-02&sr=b&rscd=inline&rsct=image/webp&skoid=15f0b47b-a152-4599-9e98-9cb4a58269f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-08-12T15%3A37%3A11Z&ske=2022-08-19T15%3A37%3A11Z&sks=b&skv=2020-10-02&sig=%2BrNFvKSjtay9ukoqKDH8cznQEdS4vQJT9CeNuASey%2Bc%3D"
+                },
+                "task_id": "task-JNDTdEsVJct7dV5ka8vsCwTB",
+                "prompt_id": "prompt-9qj3HLbGkwh5PHTSjsLkl1EF",
+                "is_public": false
+            },
+            {
+                "id": "generation-lhCmUTmVhartkz8S22HqAO1h",
+                "object": "generation",
+                "created": 1660565061,
+                "generation_type": "ImageGeneration",
+                "generation": {
+                    "image_path": "https://openailabsprodscus.blob.core.windows.net/private/user-gDrng8oTjNlF9yhhAn6CrNkK/generations/generation-lhCmUTmVhartkz8S22HqAO1h/image.webp?st=2022-08-15T11%3A05%3A22Z&se=2022-08-15T13%3A03%3A22Z&sp=rt&sv=2020-10-02&sr=b&rscd=inline&rsct=image/webp&skoid=15f0b47b-a152-4599-9e98-9cb4a58269f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-08-12T15%3A37%3A11Z&ske=2022-08-19T15%3A37%3A11Z&sks=b&skv=2020-10-02&sig=WE3TwBGt944geZbZBnFE7NwUkCCvCyceCRKsFwl4I/Q%3D"
+                },
+                "task_id": "task-JNDTdEsVJct7dV5ka8vsCwTB",
+                "prompt_id": "prompt-9qj3HLbGkwh5PHTSjsLkl1EF",
+                "is_public": false
+            },
+            {
+                "id": "generation-pU1UPhu9JWXdNuTxoEmlpySw",
+                "object": "generation",
+                "created": 1660565058,
+                "generation_type": "ImageGeneration",
+                "generation": {
+                    "image_path": "https://openailabsprodscus.blob.core.windows.net/private/user-gDrng8oTjNlF9yhhAn6CrNkK/generations/generation-pU1UPhu9JWXdNuTxoEmlpySw/image.webp?st=2022-08-15T11%3A05%3A22Z&se=2022-08-15T13%3A03%3A22Z&sp=rt&sv=2020-10-02&sr=b&rscd=inline&rsct=image/webp&skoid=15f0b47b-a152-4599-9e98-9cb4a58269f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-08-12T15%3A37%3A11Z&ske=2022-08-19T15%3A37%3A11Z&sks=b&skv=2020-10-02&sig=voeMXZMMyUzOkh2iCrCoo4ZpTdSuf/3aRaunZrj1tPE%3D"
+                },
+                "task_id": "task-JNDTdEsVJct7dV5ka8vsCwTB",
+                "prompt_id": "prompt-9qj3HLbGkwh5PHTSjsLkl1EF",
+                "is_public": false
+            },
+            {
+                "id": "generation-4RUG49DYPGUIo6aecf2CNT5O",
+                "object": "generation",
+                "created": 1660565058,
+                "generation_type": "ImageGeneration",
+                "generation": {
+                    "image_path": "https://openailabsprodscus.blob.core.windows.net/private/user-gDrng8oTjNlF9yhhAn6CrNkK/generations/generation-4RUG49DYPGUIo6aecf2CNT5O/image.webp?st=2022-08-15T11%3A05%3A22Z&se=2022-08-15T13%3A03%3A22Z&sp=rt&sv=2020-10-02&sr=b&rscd=inline&rsct=image/webp&skoid=15f0b47b-a152-4599-9e98-9cb4a58269f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-08-12T15%3A37%3A11Z&ske=2022-08-19T15%3A37%3A11Z&sks=b&skv=2020-10-02&sig=HWqQBVlKMKFYBUZKSW9XpPCPFy06QrRuaQyaJZTfDWU%3D"
+                },
+                "task_id": "task-JNDTdEsVJct7dV5ka8vsCwTB",
+                "prompt_id": "prompt-9qj3HLbGkwh5PHTSjsLkl1EF",
+                "is_public": false
+            }
+        ]
+    },
+    "prompt": {
+        "id": "prompt-9qj3HLbGkwh5PHTSjsLkl1EF",
+        "object": "prompt",
+        "created": 1660565047,
+        "prompt_type": "CaptionPrompt",
+        "prompt": {
+            "caption": "third diadem hero"
+        },
+        "parent_generation_id": null
+    }
+}

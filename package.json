@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "galaxy-council-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node second.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "image-data-uri": "^2.0.1",
+    "image-to-data-uri": "^1.1.0",
+    "node-fetch": "^3.2.10",
+    "node-telegram-bot-api": "^0.58.0",
+    "to-data-url": "^1.0.1"
+  }
+}
